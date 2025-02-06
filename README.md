@@ -1,3 +1,34 @@
+# Corp Page
+
+A modern, responsive corporate website built with Next.js, TypeScript, and Tailwind CSS.
+
+## 🌐 Live Demo
+
+Check out the live demo: [corp-page-xi.vercel.app](https://corp-page-xi.vercel.app)
+
+[![Deployed with Vercel](https://img.shields.io/badge/Deployed%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://corp-page-xi.vercel.app)
+
+## 🚀 Features
+
+- Responsive design
+- Modern UI/UX
+- SEO optimized
+- Fast loading times
+- Interactive components
+- Mobile-first approach
+
+## 💻 Tech Stack
+
+- [Next.js](https://nextjs.org/) - React framework for production
+- [TypeScript](https://www.typescriptlang.org/) - Static type checking
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [React](https://reactjs.org/) - UI component library
+- [Vercel](https://vercel.com/) - Deployment platform
+
+## 🛠️ Installation Steps
+
+1. Clone the repository
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
